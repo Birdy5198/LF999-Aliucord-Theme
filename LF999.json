@@ -1,0 +1,32 @@
+{
+    "manifest": {
+        "author": "Birdy#4954",
+        "name": "LF999",
+        "version": "1.0.0"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/588114878938480643\/1032423381737410642\/Juice-WRLD-Wallpaper-HD.jpg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": 1276450069,
+        "background_secondary": 1276450069,
+        "statusbar": -1308622848,
+        "accent": -65289,
+        "active_channel": -65289,
+        "input_background": -16777216,
+        "mention_highlight": -514121610
+    },
+    "colors": {
+        "brand_new": -65289,
+        "brand_new_230": -65289,
+        "brand_new_360": -65289,
+        "brand_new_560": -65289,
+        "primary_dark_660": 0,
+        "primary_600": 1593835520,
+        "primary_dark_800": -16777216
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
