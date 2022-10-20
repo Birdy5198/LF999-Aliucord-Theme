@@ -2,7 +2,8 @@
     "manifest": {
         "author": "Birdy#4954",
         "name": "LF999",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Birdy5198\/LF999\/main\/LF999.json"
     },
     "background": {
         "overlay_alpha": 0,
