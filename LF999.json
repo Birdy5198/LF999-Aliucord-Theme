@@ -2,29 +2,29 @@
     "manifest": {
         "author": "Birdy#4954",
         "name": "LF999",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "updater": "https:\/\/raw.githubusercontent.com\/Birdy5198\/LF999\/main\/LF999.json"
     },
     "background": {
         "overlay_alpha": 0,
         "url": "https:\/\/media.discordapp.net\/attachments\/588114878938480643\/1032423381737410642\/Juice-WRLD-Wallpaper-HD.jpg",
-        "blur_radius": 5
+        "blur_radius": 10
     },
     "fonts": {},
     "simple_colors": {
-        "background": 1276450069,
-        "background_secondary": 1276450069,
+        "background": 857019669,
+        "background_secondary": 857019669,
         "statusbar": -1308622848,
-        "accent": -65289,
-        "active_channel": -65289,
+        "accent": -1834787,
+        "active_channel": -1834787,
         "input_background": -16777216,
         "mention_highlight": -514121610
     },
     "colors": {
-        "brand_new": -65289,
-        "brand_new_230": -65289,
-        "brand_new_360": -65289,
-        "brand_new_560": -65289,
+        "brand_new": -1834787,
+        "brand_new_230": -1834787,
+        "brand_new_360": -1834787,
+        "brand_new_560": -1834787,
         "primary_dark_660": 0,
         "primary_600": 1593835520,
         "primary_dark_800": -16777216
