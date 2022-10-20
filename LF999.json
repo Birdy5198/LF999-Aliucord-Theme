@@ -2,7 +2,7 @@
     "manifest": {
         "author": "Birdy#4954",
         "name": "LF999",
-        "version": "1.0.2",
+        "version": "1.1.0",
         "updater": "https:\/\/raw.githubusercontent.com\/Birdy5198\/LF999\/main\/LF999.json"
     },
     "background": {
@@ -14,11 +14,11 @@
     "simple_colors": {
         "background": 857019669,
         "background_secondary": 857019669,
-        "statusbar": -1308622848,
+        "statusbar": -1744830464,
         "accent": -1834787,
-        "active_channel": -1834787,
         "input_background": -16777216,
-        "mention_highlight": -514121610
+        "mention_highlight": -1318387608,
+        "active_channel": -10805130
     },
     "colors": {
         "brand_new": -1834787,
@@ -27,8 +27,16 @@
         "brand_new_560": -1834787,
         "primary_dark_660": 0,
         "primary_600": 1593835520,
-        "primary_dark_800": -16777216
+        "primary_dark_360": -1834787,
+        "primary_dark_400": -1644826,
+        "primary_dark_300": -1644826,
+        "white": -1,
+        "white_500": -12258,
+        "uikit_settings_item_text_color_light": -8110684
     },
-    "drawable_tints": {},
+    "drawable_tints": {
+        "drawable_button_grey": -8110684,
+        "drawable_button_red": -1834787
+    },
     "raws": {}
 }
